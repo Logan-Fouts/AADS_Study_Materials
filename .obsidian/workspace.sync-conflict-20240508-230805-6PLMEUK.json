@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9939037fe3f3ac5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d438ca6ceb5724d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c57b1404611075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Typed Notes/New Lecture Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f174088fca24a6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abcb7e2fe49e8fd3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lectures/l8.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adc049af8f40e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f795dca3aaedc8fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8445aa08a92a112",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ae378bf54b97a42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ccc965d5562a79b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b03df46ea587e132",
+    "type": "split",
+    "children": [
+      {
+        "id": "51dc859d4a680bee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e11104289780e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Typed Notes/New Lecture Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9a725f34e52849f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Typed Notes/New Lecture Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b82c443801370773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cbfad9bcac5ff31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Typed Notes/New Lecture Notes.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "e4c57b1404611075",
+  "lastOpenFiles": [
+    "Images/Pasted image 20240506205333.png",
+    "Notes/Typed Notes/New Lecture Notes.md",
+    "Lectures/l8.pdf",
+    "Images/Pasted image 20240506204756.png",
+    "Images/Pasted image 20240506204721.png",
+    "Images/Pasted image 20240506204609.png",
+    "Images/Pasted image 20240506204354.png",
+    "Images/Pasted image 20240506203027.png",
+    "Images/Pasted image 20240506203006.png"
+  ]
+}

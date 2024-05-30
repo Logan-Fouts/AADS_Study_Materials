@@ -1,0 +1,8 @@
+- Sorting Algorithms
+- Run Time and Time complexity
+- Graphs/Trees
+	- Adjacency list and matrix
+	- Dijkstra, Prim
+	- Red black
+	- Rotations
+- Greedy and Dynamic Programming
